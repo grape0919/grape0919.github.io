@@ -1,0 +1,25 @@
+---
+title: conda env 생성
+tags: python anaconda
+---
+
+### env 생성
+```
+conda create -n snowdeer_env python=3.5
+```
+
+<!--more-->
+
+
+### env 생성
+```
+conda create -n snowdeer_env python=3.5
+```
+
+### env 삭제
+```
+$ conda env remove -n snowdeer_env
+```
+---
+
+테스트 용으로 올려보는 포스트 입니다.
