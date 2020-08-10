@@ -3,7 +3,7 @@ title: git bisect 디버깅
 tags: git
 ---
 
-###git bisect 디버깅
+### git bisect 디버깅
 
 
 - git bisect start [문제가 있는 커밋] [문제가 없는 커밋] 
