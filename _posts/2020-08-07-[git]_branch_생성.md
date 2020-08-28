@@ -1,5 +1,5 @@
 ---
-title: git 과거 커밋 수정
+title: git branch 생성
 tags: git
 ---
 
