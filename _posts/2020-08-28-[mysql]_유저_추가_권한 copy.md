@@ -6,7 +6,7 @@ tags: mysql, mariadb
 
 # 유저 추가
 
-```sh
+```sql
 create user '아이디'@'%' identified by '비밀번호';
 ```
 
@@ -16,7 +16,7 @@ create user '아이디'@'%' identified by '비밀번호';
 
 # DB 권한 부여
 
-```sh
+```sql
 grant all privileges on 데이터베이스.* to '아이디'@'%';
 ```
 
