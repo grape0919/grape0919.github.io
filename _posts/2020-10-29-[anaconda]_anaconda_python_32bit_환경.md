@@ -22,7 +22,7 @@ conda create -n py37_32
 
 # 32bit 환경 구축
 
-(여기)[https://m.blog.naver.com/PostView.nhn?blogId=haanoon&logNo=221814660104&referrerCode=0&searchKeyword=32]
+[여기](https://m.blog.naver.com/PostView.nhn?blogId=haanoon&logNo=221814660104&referrerCode=0&searchKeyword=32)
 블로그에 답이 있다.
 
 
