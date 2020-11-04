@@ -16,7 +16,7 @@ titles:
   zh-HK   : *ZH_HANT
   ko      : &KO       소개
   ko-KR   : *KO
-  fr      : &FR       À propos
+  fr      : &FR       À propos  
   fr-BE   : *FR
   fr-CA   : *FR
   fr-CH   : *FR
@@ -26,5 +26,9 @@ titles:
 key: page-about
 ---
 
-### 이름 : 김홍교
-### 직업 : 개발자
+# Fabulous dev
+
+![icon](/assets/grape.png){:.circle.shadow}
+ - Name : Hong-kyo Kim
+ - Interest : `NLP(Natural Language Processing)`{:.info} `Deep Learning`{:.warning}
+ - skills : `C`{:.info} `C++`{:.info} `java`{:.error} `python`{:.success}
