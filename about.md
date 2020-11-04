@@ -29,7 +29,8 @@ key: page-about
 # Fabulous dev
 
 ![icon](/assets/grape.png){:.circle.shadow}
- - Name : Hong-kyo Kim
+ ## __Hong-kyo Kim__
+ ------------------------------------
  - Interest : `NLP(Natural Language Processing)`{:.info} `Deep Learning`{:.warning}
  - Programming Languages : `C`{:.info} `C++`{:.warning} `java`{:.error} `python`{:.success}
  - Frame work : `MFC(C++)`{:.info} `SWING(java)`{:.warning} `PyQ5t(python)`{:.error} `Flask(python)`{:.success}
