@@ -30,8 +30,8 @@ key: page-about
 
 ![icon](/assets/grape.png){:.circle.shadow}
 
- ## __Hong-kyo Kim__
- 
+ ## Hong-kyo Kim
+
  ------------------------------------
  
  - Interest : `NLP(Natural Language Processing)`{:.info} `Deep Learning`{:.warning}
