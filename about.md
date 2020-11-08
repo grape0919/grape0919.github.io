@@ -30,9 +30,11 @@ key: page-about
 
 ![icon](/assets/grape.png){:.circle.shadow}
 
-### Hong-kyo Kim
+## Hong-kyo Kim
  
  - Interest : `NLP(Natural Language Processing)`{:.info} `Deep Learning`{:.warning}
  - Programming Languages : `C`{:.info} `C++`{:.warning} `java`{:.error} `python`{:.success}
  - Frame work : `MFC(C++)`{:.info} `SWING(java)`{:.warning} `PyQ5t(python)`{:.error} `Flask(python)`{:.success}
  - OS : `Windows`{:.info} `Linux`{:.warning}
+
+### Career
