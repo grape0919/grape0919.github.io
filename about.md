@@ -38,6 +38,12 @@ key: page-about
  - OS : `Windows`{:.info} `Linux`{:.warning}
 
 ## Career
+---
+__NHN diquest__
+
+2018.04 ~
+
+---
 
 ### 1. LGUPLUS 언어 분석 서비스 개발 (2020-06-22~진행중)
  - 트랜드 키워드 분석
