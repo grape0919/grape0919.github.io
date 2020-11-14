@@ -50,11 +50,7 @@ header:
     url: /archive.html
 
   - title: Portfolio
-      children: 
-        - title: Curriculum Vitae
-          url: /
-        - title: GitHub
-          url: https://github.com/grape0919
+      url: /
     
   - titles:
       # @start locale config
