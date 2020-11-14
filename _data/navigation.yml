@@ -49,7 +49,7 @@ header:
       # @end locale config
     url: /archive.html
 
-  - titles: Portfolio
+  - title: Portfolio
       children: 
         - title: Curriculum Vitae
           url: /
