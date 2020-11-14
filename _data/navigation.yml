@@ -22,7 +22,7 @@ header:
       fr-FR   : *FR
       fr-LU   : *FR
       # @end locale config
-    url: /home.html
+    url: /
 
   - titles:
       # @start locale config
@@ -72,7 +72,11 @@ header:
       fr-FR   : *FR
       fr-LU   : *FR
       # @end locale config
-    url: /none.html
+      children: 
+        - title: Curriculum Vitae
+          url: /
+        - title: GitHub
+          url: https://github.com/grape0919
     
   - titles:
       # @start locale config
