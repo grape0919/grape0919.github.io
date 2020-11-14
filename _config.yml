@@ -20,9 +20,9 @@ text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate"
 highlight_theme: tomorrow-night-eighties # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : https://grape0919.github.io/ # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : 홍's Devlog
+title   : Hong's Devlog
 description: > # this means to ignore newlines until "Language & timezone"
- 개발 블로그
+ Developer blog
 
 
 ## => Language and Timezone
