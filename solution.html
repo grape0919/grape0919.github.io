@@ -1,30 +1,30 @@
 ---
-layout: article
+layout: articles
 title: Solutions
 permalink: /solutions.html
-sidebar:
-    nav: solutions
+key: articles-item-cover-excerpt
+cover: /docs/assets/images/axure/articles-item-cover-excerpt.jpg
+articles:
+  data_source: site.solutions
+  show_excerpt: true
 ---
 
-{% extends "bootstrap/base.html" %}
-{% block title %}
-    NoHandBlogger
-{% endblock %}
+<div class="article__content" markdown="1">
 
-{% block body %}
+---
 
-    {% block navbar %}
-    <div class="navbar navbar-inverse" role="navigation">
-        <div class="navbar-header">
-            <a class="navbar-brand" href="/" style="font-weight: bold;">NoHandBlogger</a>
-        </div>
-    </div>
-    {% endblock %}
-    <div class="wrap">
-        {% extends "layout.html" %}
-            {% block content %}
-            <h4>HELLO WORLD</h4>
-        {% endblock %}
-    </div>
+Article list with cover and excerpt.
 
-{% endblock%}
+<!--more-->
+
+**front matter:**
+
+    ---
+    layout: articles
+    title: Articles - Item (Cover + Excerpt)
+    articles:
+      data_source: site.sample_page
+      show_excerpt: true
+    ---
+
+</div>
