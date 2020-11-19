@@ -5,6 +5,7 @@ permalink: /solutions.html
 key: solutions
 articles:
   data_source: site.solutions
+  type: brief
   show_excerpt: true
 ---
 
