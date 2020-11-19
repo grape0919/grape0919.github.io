@@ -1,0 +1,22 @@
+{% extends "bootstrap/base.html" %}
+{% block title %}
+    NoHandBlogger
+{% endblock %}
+
+{% block body %}
+
+    {% block navbar %}
+    <div class="navbar navbar-inverse" role="navigation">
+        <div class="navbar-header">
+            <a class="navbar-brand" href="/" style="font-weight: bold;">NoHandBlogger</a>
+        </div>
+    </div>
+    {% endblock %}
+    <div class="wrap">
+        {% extends "layout.html" %}
+            {% block content %}
+            <h4>HELLO WORLD</h4>
+        {% endblock %}
+    </div>
+
+{% endblock%}
