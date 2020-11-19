@@ -7,3 +7,10 @@ articles:
   data_source: site.solutions
   show_excerpt: true
 ---
+
+<div class="article__content" markdown="1">
+
+---
+
+
+</div>
