@@ -200,6 +200,8 @@ exclude:
   - /screenshots
   - /test
   - /vendor
+  - /solutions
+  - /portfolio
 
 defaults:
   - scope:
