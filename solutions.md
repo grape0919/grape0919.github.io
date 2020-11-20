@@ -1,7 +1,7 @@
 ---
 layout: articles
-title: Portfolio
+title: solutions
 articles:
-  data_source: site.portfolio
+  data_source: site.solutions
   show_excerpt: true
 ---
