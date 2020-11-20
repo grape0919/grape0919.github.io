@@ -1,6 +1,6 @@
 ---
 layout: articles
-title: solutions
+title: Solutions
 articles:
   data_source: site.solutions
   show_excerpt: true
