@@ -226,6 +226,5 @@ plugins:
 
 
 collections:
-  solutions:
-    output: true
+  - solutions
   - portfolio
