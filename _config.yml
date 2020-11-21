@@ -223,3 +223,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+
+
+collections:
+  - solutions
+  - portfolio
