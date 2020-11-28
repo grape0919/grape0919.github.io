@@ -1,7 +1,7 @@
 ---
-layout: articles
+layout: article
 title: Portfolio
-articles:
-  data_source: site.portfolio
-  show_excerpt: true
 ---
+
+
+준비중 입니다.
