@@ -1,0 +1,13 @@
+{% extends "bootstrap/base.html" %}
+{% block title %}
+    NoHandBlogger
+{% endblock %}
+
+{% block body %}
+
+    {% include 'navigationBar.html' %}
+    <div class="wrap">
+        {% block content %}{% endblock %}
+    </div>
+
+{% endblock%}
