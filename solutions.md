@@ -1,5 +1,5 @@
 ---
-layout: articles
+layout: solutions
 title: Solutions
 articles:
   data_source: site.solutions
