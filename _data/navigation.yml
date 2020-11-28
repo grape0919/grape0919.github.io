@@ -12,8 +12,8 @@ header:
   - title: About
     url: /about.html
 
-layouts:
-  - title: Layouts
+solutions:
+  - title: solutions
     children:
       - title:  Solution sample1
         url:    /solutions/solution1.html
