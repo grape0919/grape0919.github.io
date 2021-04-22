@@ -4,16 +4,16 @@ header:
 
   - title: Archive
       # @end locale config
-    url: /archive.html
+    url: /archive
 
   - title: Portfolio
     url: /portfolio
     
   - title: About
-    url: /about.html
+    url: /about
 
 solutions:
-  - title: solutions
+  - title: Solutions
     children:
       - title:  Solution sample1
         url:    /solutions/solution1.html
