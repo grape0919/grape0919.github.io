@@ -1,7 +1,7 @@
 ---
 layout: none
 ---
-
+<div class="root" data-is-touch="false">
 {%- assign _page_articles_data_source = page.articles.data_source | default: layout.articles.data_source -%}
 
 {%- if _page_articles_data_source -%}
@@ -85,5 +85,5 @@ layout: none
 
   </div>
 {%- endif -%}
-
 {{ content }}
+</div>
