@@ -229,3 +229,11 @@ collections:
   - solutions
   - portfolio
   - memories
+
+collections:
+  solutions:
+    output: true
+  memories:
+    output: true
+  portfolio:
+    output: true
