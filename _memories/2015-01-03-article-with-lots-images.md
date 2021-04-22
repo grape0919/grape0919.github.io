@@ -1,8 +1,13 @@
 ---
 layout: article
-title: Test - Article with Lots of Images
+title: Memory Test
 key: 20150103
 tags: Test
+cover: /docs/assets/images/axure/page-article-header-cover-image.jpg
+article_header:
+  type: cover
+  image:
+    src: /docs/assets/images/cover2.jpg
 ---
 
 ## TeXt Theme - Cover
