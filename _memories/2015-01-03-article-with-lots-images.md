@@ -4,6 +4,7 @@ title: Memory Test
 key: 20150103
 tags: Test
 cover: /docs/assets/images/axure/page-article-header-cover-image.jpg
+permalink: /memories/2.html
 article_header:
   type: cover
   image:
