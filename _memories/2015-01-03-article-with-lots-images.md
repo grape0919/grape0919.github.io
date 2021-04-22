@@ -10,6 +10,7 @@ article_header:
     src: /docs/assets/images/cover2.jpg
 ---
 
+
 ## TeXt Theme - Cover
 
 ![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
