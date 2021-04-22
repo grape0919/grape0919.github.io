@@ -12,10 +12,10 @@ header:
   - title: About
     url: /about
 
-solutions:
-  - title: Solutions
-    children:
-      - title:  Solution sample1
-        url:    /solutions/solution1.html
+#solutions:
+  # - title: Solutions
+  #   children:
+  - title:  Solution
+    url:    /solutions/solution1.html
     
 
