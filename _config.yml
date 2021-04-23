@@ -223,10 +223,7 @@ plugins:
   - jekyll-sitemap
   - jemoji
 
-collections-dir: docs
 collections:
-  docs:
-    output: true
   solutions:
     output: true
   memories:
